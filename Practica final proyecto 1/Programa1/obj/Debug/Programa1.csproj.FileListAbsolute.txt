@@ -1,0 +1,7 @@
+C:\Users\Junior Rodriguez\Desktop\C#\Programa1Solucion\Programa1\obj\Debug\Programa1.csprojResolveAssemblyReference.cache
+C:\Users\Junior Rodriguez\Desktop\C#\Programa1Solucion\Programa1\obj\Debug\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\Junior Rodriguez\Desktop\C#\Programa1Solucion\Programa1\bin\Debug\Programa1.exe.config
+C:\Users\Junior Rodriguez\Desktop\C#\Programa1Solucion\Programa1\bin\Debug\Programa1.exe
+C:\Users\Junior Rodriguez\Desktop\C#\Programa1Solucion\Programa1\bin\Debug\Programa1.pdb
+C:\Users\Junior Rodriguez\Desktop\C#\Programa1Solucion\Programa1\obj\Debug\Programa1.exe
+C:\Users\Junior Rodriguez\Desktop\C#\Programa1Solucion\Programa1\obj\Debug\Programa1.pdb

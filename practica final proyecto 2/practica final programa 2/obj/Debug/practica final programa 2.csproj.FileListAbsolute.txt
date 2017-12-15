@@ -1,0 +1,6 @@
+c:\users\yilda y abi\documents\visual studio 2012\Projects\practica final programa 2\practica final programa 2\bin\Debug\practica final programa 2.exe.config
+c:\users\yilda y abi\documents\visual studio 2012\Projects\practica final programa 2\practica final programa 2\bin\Debug\practica final programa 2.exe
+c:\users\yilda y abi\documents\visual studio 2012\Projects\practica final programa 2\practica final programa 2\bin\Debug\practica final programa 2.pdb
+c:\users\yilda y abi\documents\visual studio 2012\Projects\practica final programa 2\practica final programa 2\obj\Debug\practica final programa 2.csprojResolveAssemblyReference.cache
+c:\users\yilda y abi\documents\visual studio 2012\Projects\practica final programa 2\practica final programa 2\obj\Debug\practica final programa 2.exe
+c:\users\yilda y abi\documents\visual studio 2012\Projects\practica final programa 2\practica final programa 2\obj\Debug\practica final programa 2.pdb
